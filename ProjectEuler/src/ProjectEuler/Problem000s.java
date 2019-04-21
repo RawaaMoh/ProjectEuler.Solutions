@@ -9,7 +9,7 @@ package ProjectEuler;
  *
  * @author Lenovo
  */
-public class Problem00s {
+public class Problem000s {
 
     public static void main(String[] args) {
 
