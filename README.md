@@ -1,7 +1,6 @@
 # ProjectEuler.Solutions
 
-Problem001: multiples of 3 or 5
-
+Problem001: multiples of 3 or 5;
 Problem002: Fibonacci sequence
 
 Problem003:
