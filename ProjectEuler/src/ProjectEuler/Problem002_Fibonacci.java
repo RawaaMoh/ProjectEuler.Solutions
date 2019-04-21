@@ -9,7 +9,7 @@ package ProjectEuler;
  *
  * @author Lenovo
  */
-public class Problem02 {
+public class Problem002_Fibonacci {
     // Even Fibonacci numbers
 
     public static void main(String[] args) {
