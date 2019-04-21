@@ -1,5 +1,5 @@
 # ProjectEuler Solutions:
-<small>ProjectEuler & Basic Java Solutions</Small>
+<small>ProjectEuler & Basic Java Solutions:</Small>
 
 * Problem001: multiples of 3 or 5
 * Problem002: Fibonacci sequence
