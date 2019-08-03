@@ -1,6 +1,12 @@
 # ProjectEuler Solutions:
 <small>ProjectEuler & Basic Java Solutions:</Small>
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 * Problem001: multiples of 3 or 5
 * Problem002: Fibonacci sequence
 * Problem003:
