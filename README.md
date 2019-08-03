@@ -1,5 +1,5 @@
 # ProjectEuler Solutions:
-<small>ProjectEuler & Basic Java Solutions:</Small>
+<small>ProjectEuler & Basic Solutions:</Small>
 
 | Problem | Description        | Java | JavaScript | Python |
 | ------- |:------------------:|:----:|:----------:|:------ |
